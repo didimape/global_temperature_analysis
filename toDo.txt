@@ -1,0 +1,5 @@
+Check how many countries
+Check change for diff latitudes
+Check change for specific countries
+Countries with most and least change
+Colourfull map
