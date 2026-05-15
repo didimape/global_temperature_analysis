@@ -1,0 +1,24 @@
+# Datos sensibles
+data/
+*.csv
+*.xlsx
+
+# Entornos
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code 
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
