@@ -3,3 +3,6 @@ Check change for diff latitudes
 Check change for specific countries
 Countries with most and least change
 Multiple input make all dtypes the same so they can be correlated
+
+Objetivo: ¿Se ha acelerado el calentamiento global desde el siglo XX?
+Ciudades que más lo notan y cuales menos
